@@ -1,0 +1,4 @@
+Topic ID: 0.0.3906906
+Message receipt:
+{"status":{"_code":22},"accountId":null,"fileId":null,"contractId":null,"topicId":null,"tokenId":null,"scheduleId":null,"exchangeRate":{"hbars":30000,"cents":184198,"expirationTime":"2023-03-23T12:00:00.000Z","exchangeRateInCents":6.1399333333333335},"topicSequenceNumber":{"low":1,"high":0,"unsigned":false},"topicRunningHash":{"0":159,"1":85,"2":65,"3":6,"4":177,"5":155,"6":63,"7":17,"8":87,"9":218,"10":99,"11":97,"12":190,"13":212,"14":2,"15":116,"16":90,"17":110,"18":83,"19":95,"20":239,"21":129,"22":22,"23":157,"24":40,"25":141,"26":145,"27":15,"28":102,"29":125,"30":230,"31":229,"32":60,"33":234,"34":18,"35":4,"36":177,"37":154,"38":186,"39":198,"40":194,"41":10,"42":246,"43":209,"44":213,"45":149,"46":142,"47":202},"totalSupply":{"low":0,"high":0,"unsigned":false},"scheduledTransactionId":null,"serials":[],"duplicates":[],"children":[]}
+The message transaction status: SUCCESS

@@ -1,0 +1,3 @@
+Contract ID: 0.0.3905144
+Function 1 response: 12
+Function 2 response: 14
